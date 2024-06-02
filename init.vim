@@ -49,7 +49,7 @@ nmap <F8> :TagbarToggle<CR>
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 
-" --- Just Some Notes ---
+" --- sometings for oneday ithk(: ---
 " :PlugClean :PlugInstall :UpdateRemotePlugins
 "
 " :CocInstall coc-python
